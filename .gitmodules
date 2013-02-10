@@ -1,0 +1,15 @@
+[submodule "backend"]
+	path = backend
+	url = git://github.com/crew/dds-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git://github.com/crew/dds-frontend.git
+[submodule "harvest"]
+	path = harvest
+	url = git://github.com/crew/dds-harvest.git
+[submodule "wysiwyg"]
+	path = wysiwyg
+	url = git://github.com/crew/dds-wysiwyg.git
+[submodule "slides"]
+	path = slides
+	url = git://github.com/crew/dds-slides.git
